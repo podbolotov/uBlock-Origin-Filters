@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: Podbolotov's uBlock Origin rules set
+
 # Disables blur and sign-in requirement for NSFW-communities on Reddit
 ||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
 ||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
