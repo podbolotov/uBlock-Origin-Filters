@@ -11,3 +11,7 @@ www.reddit.com##[style*="blur"]:style(filter:none!important;)
 
 # Disables "Sign In by Google" pop-up windows
 ||accounts.google.com/gsi/iframe/select?
+
+# Disables reactions and first post comments in feed on DTF
+dtf.ru##.content__reactions
+dtf.ru##.content-comment
