@@ -16,3 +16,8 @@ www.reddit.com##[style*="blur"]:style(filter:none!important;)
 dtf.ru##.content__reactions
 dtf.ru##.content-comment
 dtf.ru##.comment-reactions.reactions
+
+# Disables reactions for posts and comments on VC.ru
+vc.ru##.content__reactions
+vc.ru##.content-comment
+vc.ru##.comment-reactions.reactions
